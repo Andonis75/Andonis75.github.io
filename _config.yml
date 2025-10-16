@@ -9,7 +9,7 @@ github_username:  your-github-username
 
 # 构建设置
 markdown: kramdown
-theme: minima
+# 移除 theme 行，这样会使用我们自定义的布局
 plugins:
   - jekyll-feed
 
