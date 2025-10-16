@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >- # 这个符号表示下面的内容是一个多行字符串
   这是我的个人博客，在这里我会分享一些技术文章和个人想法。
 baseurl: "" # 子路径，例如 "/blog"
-url: "" # 网站的根地址，例如 "http://example.com"
+url: "https://andonis75.github.io" # 网站的根地址，例如 "http://example.com"
 twitter_username: your-twitter-username
 github_username:  your-github-username
 
